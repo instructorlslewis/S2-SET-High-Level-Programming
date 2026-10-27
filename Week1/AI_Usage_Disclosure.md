@@ -14,18 +14,18 @@ Any AI use, even brainstorming, must be disclosed on the form below and submitte
 
 ### AI Use Disclosure Form
 
-**Name:** _________________________________________________
+**Name:** __Professor Lewis_______________________________________________
 
-**Course & Section:** _____________________________________
+**Course & Section:** _____Week 1________________________________
 
-**Assignment Title:** ______________________________________
+**Assignment Title:** _______JavaScript_Fundamentals ______________________________
 
 #### Did you use AI for brainstorming or idea generation on this assignment?
 
 - [ ] **No** — I did not use any AI tool.
-- [ ] **Yes** — I used AI for brainstorming or idea generation only.
+- [x ] **Yes** — I used AI for brainstorming or idea generation only.
 
-**Tool used:** _____________________________________________
+**Tool used:** _____Chatgpt and Claude AI________________________________________
 
 #### Additional AI Use
 
@@ -41,6 +41,6 @@ ______________________________________________________________________
 
 I certify that this disclosure accurately reflects my use of AI tools on this assignment and that the submitted work, beyond any disclosed brainstorming, is my own.
 
-**Signature:** _____________________________________________
+**Signature:** __L. Lewis___________________________________________
 
-**Date:** _______________________________________________
+**Date:** ______10-27-2026_________________________________________
